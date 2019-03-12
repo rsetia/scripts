@@ -4,8 +4,7 @@
 # install brew packages
 brew install npm
 brew install kubectl
-
-# python 
+brew install gpg
 brew install pipenv
 
 # ruby 
