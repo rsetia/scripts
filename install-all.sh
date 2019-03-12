@@ -6,6 +6,7 @@ brew install npm
 brew install kubectl
 brew install gpg
 brew install pipenv
+brew cask install sublime-text
 
 # ruby 
 gem install bundler
